@@ -1,0 +1,89 @@
+header{
+    background-image: linear-gradient(to right, #D4C7E6, #B6C8F9, #A193BE, #FBBFEE);
+    width: 100%;
+    margin-bottom: 50px;
+}
+body{
+    background-image: linear-gradient(to right, #D4C7E6, #B6C8F9, #A193BE, #FBBFEE);
+    width: 100%;
+}
+h1{
+    font-size: 25px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 201, 243);
+}
+p{
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+}
+footer{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(0, 0, 0, 0.76);
+    margin: 150px 0px 50px 0px;
+}
+ol{
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+}
+ul{
+    font: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+}
+h4{
+    font: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(243, 255, 131);
+}
+.contenidos{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.contenidoss{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.contenidos img{
+    width: 300px;
+}
+.contenidoss img{
+    width: 300px;
+}
+header img{
+    display: flex;
+    width: 100%;
+    height: auto;
+    margin-top: 0;
+}
+.contenidos h1{
+    color: rgb(0, 0, 0) ;
+    width: 100%;
+    height: auto;
+}
+.contenidoss h1{
+    color: rgb(0, 0, 0) ;
+}
+.contenidos a{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+.contenidoss a{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+.parteuno{
+    margin-bottom: 150px; 
+}
+
+
+
